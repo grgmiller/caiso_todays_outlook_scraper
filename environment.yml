@@ -1,0 +1,17 @@
+name: caiso_data_scraper
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+ - black
+ - ipykernel
+ - numpy
+ - pandas
+ - pathlib
+ - pip
+ - plotly
+ - python
+ - pytz
+
+ - pip:
+    - tabula-py

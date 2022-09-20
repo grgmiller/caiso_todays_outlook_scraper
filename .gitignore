@@ -1,0 +1,4 @@
+data/downloads/*
+data/processed/*
+.vscode/
+__pycache__/
